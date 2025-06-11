@@ -1,3 +1,4 @@
 this is line 1 from masterrrrrr
 this is line 1 from dev1 now
 this is line 2 but modified from dev1
+This is fourth from master
