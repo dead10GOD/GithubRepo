@@ -1,1 +1,5 @@
 abcdefg from hello
+<<<<<<< HEAD
+=======
+i dont knwo how was this done
+>>>>>>> master
